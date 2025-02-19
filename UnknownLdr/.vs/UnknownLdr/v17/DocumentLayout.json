@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|solutionrelative:UnknownLdr\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\brute.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|solutionrelative:UnknownLdr\\brute.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\camo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|solutionrelative:UnknownLdr\\camo.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\general.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|solutionrelative:UnknownLdr\\general.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\inject.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|solutionrelative:UnknownLdr\\inject.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\hashing.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|solutionrelative:UnknownLdr\\hashing.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\sleep.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|solutionrelative:UnknownLdr\\sleep.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\typedef.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|solutionrelative:UnknownLdr\\include\\typedef.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\structs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UnknownLdr\\include\\structs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|solutionrelative:UnknownLdr\\include\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\debug.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|solutionrelative:UnknownLdr\\include\\debug.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\SysWhispers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|solutionrelative:UnknownLdr\\include\\SysWhispers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\SysWhispers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{074E1B12-CFEF-4ABF-807A-F14FBAC607BF}|UnknownLdr\\UnknownLdr.vcxproj|solutionrelative:UnknownLdr\\include\\SysWhispers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\WinBase.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "camo.c",
+              "DocumentMoniker": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\camo.c",
+              "RelativeDocumentMoniker": "UnknownLdr\\camo.c",
+              "ToolTip": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\camo.c",
+              "RelativeToolTip": "UnknownLdr\\camo.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-19T19:34:56.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "brute.c",
+              "DocumentMoniker": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\brute.c",
+              "RelativeDocumentMoniker": "UnknownLdr\\brute.c",
+              "ToolTip": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\brute.c",
+              "RelativeToolTip": "UnknownLdr\\brute.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-19T19:00:07.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\main.c",
+              "RelativeDocumentMoniker": "UnknownLdr\\main.c",
+              "ToolTip": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\main.c",
+              "RelativeToolTip": "UnknownLdr\\main.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-19T13:33:25.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "typedef.h",
+              "DocumentMoniker": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\typedef.h",
+              "RelativeDocumentMoniker": "UnknownLdr\\include\\typedef.h",
+              "ToolTip": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\typedef.h",
+              "RelativeToolTip": "UnknownLdr\\include\\typedef.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-19T18:32:10.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SysWhispers.h",
+              "DocumentMoniker": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\SysWhispers.h",
+              "RelativeDocumentMoniker": "UnknownLdr\\include\\SysWhispers.h",
+              "ToolTip": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\SysWhispers.h",
+              "RelativeToolTip": "UnknownLdr\\include\\SysWhispers.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-19T18:59:55.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "winnt.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\winnt.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-19T18:01:19.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "WinBase.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\WinBase.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\WinBase.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\WinBase.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\WinBase.h",
+              "ViewState": "AgIAACMlAAAAAAAAAAArwDslAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-19T18:05:31.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "structs.h",
+              "DocumentMoniker": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\structs.h",
+              "RelativeDocumentMoniker": "UnknownLdr\\include\\structs.h",
+              "ToolTip": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\structs.h",
+              "RelativeToolTip": "UnknownLdr\\include\\structs.h",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAvwOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-19T18:02:17.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "hashing.c",
+              "DocumentMoniker": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\hashing.c",
+              "RelativeDocumentMoniker": "UnknownLdr\\hashing.c",
+              "ToolTip": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\hashing.c",
+              "RelativeToolTip": "UnknownLdr\\hashing.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-19T18:03:40.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SysWhispers.c",
+              "DocumentMoniker": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\SysWhispers.c",
+              "RelativeDocumentMoniker": "UnknownLdr\\include\\SysWhispers.c",
+              "ToolTip": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\SysWhispers.c",
+              "RelativeToolTip": "UnknownLdr\\include\\SysWhispers.c",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAUwBgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-19T17:55:12.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "debug.h",
+              "DocumentMoniker": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\debug.h",
+              "RelativeDocumentMoniker": "UnknownLdr\\include\\debug.h",
+              "ToolTip": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\debug.h",
+              "RelativeToolTip": "UnknownLdr\\include\\debug.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-19T17:55:11.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "common.h",
+              "DocumentMoniker": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\common.h",
+              "RelativeDocumentMoniker": "UnknownLdr\\include\\common.h",
+              "ToolTip": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\include\\common.h",
+              "RelativeToolTip": "UnknownLdr\\include\\common.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-19T17:52:57.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "inject.c",
+              "DocumentMoniker": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\inject.c",
+              "RelativeDocumentMoniker": "UnknownLdr\\inject.c",
+              "ToolTip": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\inject.c",
+              "RelativeToolTip": "UnknownLdr\\inject.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-19T15:13:41.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "general.c",
+              "DocumentMoniker": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\general.c",
+              "RelativeDocumentMoniker": "UnknownLdr\\general.c",
+              "ToolTip": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\general.c",
+              "RelativeToolTip": "UnknownLdr\\general.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-19T14:43:58.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sleep.c",
+              "DocumentMoniker": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\sleep.c",
+              "RelativeDocumentMoniker": "UnknownLdr\\sleep.c",
+              "ToolTip": "C:\\Users\\Jarno\\OneDrive - Rootsec\\Desktop\\UnknownLdr\\UnknownLdr\\UnknownLdr\\sleep.c",
+              "RelativeToolTip": "UnknownLdr\\sleep.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-19T18:21:22.233Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

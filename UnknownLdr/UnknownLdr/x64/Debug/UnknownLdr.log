@@ -1,0 +1,67 @@
+﻿  Assembling include\SysWhispers-asm.x64.asm...
+  aes.c
+  brute.c
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\brute.c(9,3): warning C4047: 'return': 'BYTE' differs in levels of indirection from 'void *'
+  camo.c
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(42,54): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(42,54): warning C4024: 'MessageBoxA': different types for formal and actual parameter 4
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(44,41): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(44,41): warning C4024: 'SetCriticalSectionSpinCount': different types for formal and actual parameter 2
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(46,31): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(46,31): warning C4024: 'GetWindowLongPtrW': different types for formal and actual parameter 2
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(49,28): warning C4047: 'function': 'LCID' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(49,28): warning C4024: 'ConvertDefaultLocale': different types for formal and actual parameter 1
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(50,27): warning C4047: 'function': 'UINT' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(50,27): warning C4024: 'MultiByteToWideChar': different types for formal and actual parameter 1
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(50,33): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(50,33): warning C4024: 'MultiByteToWideChar': different types for formal and actual parameter 2
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(50,45): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(50,45): warning C4024: 'MultiByteToWideChar': different types for formal and actual parameter 4
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(50,57): warning C4047: 'function': 'int' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\camo.c(50,57): warning C4024: 'MultiByteToWideChar': different types for formal and actual parameter 6
+  decrypt.c
+  general.c
+  hashing.c
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\hashing.c(41,3): warning C4047: 'return': 'HANDLE' differs in levels of indirection from 'int'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\hashing.c(142,32): warning C4047: '!=': 'int' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\hashing.c(147,66): warning C4244: 'function': conversion from 'WCHAR' to 'CHAR', possible loss of data
+  SysWhispers.c
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\include\SysWhispers.c(273,19): warning C4013: 'GetPseudoRandomInteger' undefined; assuming extern returning int
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\include\SysWhispers.c(276,9): warning C4013: 'SetPseudoRandomSeed' undefined; assuming extern returning int
+  inject.c
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\inject.c(21,2): warning C4013: 'ApiHammering' undefined; assuming extern returning int
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\inject.c(41,97): warning C4047: 'function': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\inject.c(41,97): warning C4024: 'Sw3NtCreateThreadEx': different types for formal and actual parameter 7
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\inject.c(41,103): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\inject.c(41,103): warning C4024: 'Sw3NtCreateThreadEx': different types for formal and actual parameter 8
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\inject.c(41,109): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\inject.c(41,109): warning C4024: 'Sw3NtCreateThreadEx': different types for formal and actual parameter 9
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\inject.c(41,115): warning C4047: 'function': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\inject.c(41,115): warning C4024: 'Sw3NtCreateThreadEx': different types for formal and actual parameter 10
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\inject.c(10,8): warning C4047: 'initializing': 'ULONG' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\inject.c(12,9): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+  main.c
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\main.c(55,2): warning C4013: 'BruteKey' undefined; assuming extern returning int
+  sleep.c
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\sleep.c(31,52): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\sleep.c(31,52): warning C4024: 'CreateFileW': different types for formal and actual parameter 3
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\sleep.c(42,39): warning C4244: 'function': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\sleep.c(52,51): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\sleep.c(52,51): warning C4024: 'CreateFileW': different types for formal and actual parameter 3
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\sleep.c(57,38): warning C4244: 'function': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\sleep.c(63,30): warning C4047: 'function': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\sleep.c(63,30): warning C4024: 'HeapFree': different types for formal and actual parameter 2
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\sleep.c(14,9): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\UnknownLdr\sleep.c(15,9): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  Generating Code...
+aes.obj : error LNK2019: unresolved external symbol memcpy referenced in function AES_CBC_decrypt_buffer
+brute.obj : error LNK2019: unresolved external symbol malloc referenced in function BruteForceDecryption
+SysWhispers.obj : error LNK2019: unresolved external symbol memcmp referenced in function SC_Address
+main.obj : error LNK2019: unresolved external symbol BruteKey referenced in function main
+LIBCMT.lib(error.obj) : error LNK2019: unresolved external symbol strcpy_s referenced in function "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPEAXPEBD@Z)
+LIBCMT.lib(error.obj) : error LNK2019: unresolved external symbol strcat_s referenced in function "void __cdecl _RTC_StackFailure(void *,char const *)" (?_RTC_StackFailure@@YAXPEAXPEBD@Z)
+LIBCMT.lib(error.obj) : error LNK2019: unresolved external symbol __stdio_common_vsprintf_s referenced in function _vsprintf_s_l
+LIBCMT.lib(error.obj) : error LNK2001: unresolved external symbol __C_specific_handler_noexcept
+LIBCMT.lib(pdblkup.obj) : error LNK2019: unresolved external symbol __vcrt_GetModuleFileNameW referenced in function "int __cdecl _RTC_GetSrcLine(unsigned char *,wchar_t *,unsigned long,int *,wchar_t *,unsigned long)" (?_RTC_GetSrcLine@@YAHPEAEPEA_WKPEAH1K@Z)
+LIBCMT.lib(pdblkup.obj) : error LNK2019: unresolved external symbol __vcrt_LoadLibraryExW referenced in function "struct HINSTANCE__ * __cdecl GetPdbDllFromInstallPath(void)" (?GetPdbDllFromInstallPath@@YAPEAUHINSTANCE__@@XZ)
+C:\Users\Jarno\OneDrive - Rootsec\Desktop\UnknownLdr\x64\Debug\UnknownLdr.exe : fatal error LNK1120: 10 unresolved externals
