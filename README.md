@@ -7,6 +7,7 @@ CRT injection with:
 - API hammering
 - IAT camouflage
 - API hashing
+- CRT independent
 
 Future ideas:
 - Retrieving shellcode from .rsrc using section walking
