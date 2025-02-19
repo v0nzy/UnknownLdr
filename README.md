@@ -7,6 +7,7 @@ CRT injection with:
 - API hammering
 - IAT camouflage
 - API hashing
+- Encryption bruteforce
 - CRT independent
 
 Future ideas:
